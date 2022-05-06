@@ -1,0 +1,34 @@
+{
+  "testnet": {
+    "counter": {
+      "codeId": "65963",
+      "contractAddresses": {
+        "default": "terra1fq02q6mltx3j7gd5ccta0k9d9mgakrez825fz5"
+      }
+    },
+    "oracle": {
+      "codeId": "68128",
+      "contractAddresses": {
+        "default": "terra1w7qj7e0nd9wexuz4p2v69cwnt9nh5u76pqh4zw"
+      }
+    },
+    "swap": {
+      "codeId": "68428",
+      "contractAddresses": {
+        "default": "terra18aj0e4hdspspzz9hp0skdtvefzhf9xpfpvreh3"
+      }
+    },
+    "swap2": {
+      "codeId": "68632",
+      "contractAddresses": {
+        "default": "terra1t63nqq6xevumff4gaw6lu72gj27nf6a3nl9dkz"
+      }
+    },
+    "cw20_token": {
+      "codeId": "68127",
+      "contractAddresses": {
+        "default": "terra18lmfqfdupmlpfktxc8vple3uf6yg6t00dguxzv"
+      }
+    }
+  }
+}
